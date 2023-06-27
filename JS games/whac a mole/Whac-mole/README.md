@@ -1,0 +1,2 @@
+# Whac-mole
+ Learning JavaScript 
